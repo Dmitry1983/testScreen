@@ -1,0 +1,6 @@
+module Pods_testScreen_testScreenTests {
+  umbrella header "Pods-testScreen-testScreenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
